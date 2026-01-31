@@ -1,2 +1,2 @@
 import Entypo from '@expo/vector-icons/Entypo';
-<Entypo name="retweet" size={24} color="black" /> - > republicados
+<Entypo name="retweet" size={24} color="black" /> - > compartilhado
